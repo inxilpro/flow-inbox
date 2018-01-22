@@ -1,0 +1,12 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/php.xml
+.idea/vagrant.xml
+.idea/remote-mappings.xml
+.idea/runConfigurations/Build_Templates_Command.xml
+.idea/commandlinetools/
+/.vagrant
+*/.iws
